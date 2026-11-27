@@ -35,8 +35,9 @@ h1 {
 
 .entry {
     display: grid;
-    grid-template-columns: 120px 1fr 2fr;
-    gap: 15px;
+    grid-template-columns: 120px 1fr;
+    gap: 8px 15px;
+    align-items: center;
     padding: 15px;
     background: white;
     border-bottom: 1px solid #e1e8ef;
@@ -49,10 +50,13 @@ h1 {
 
 .word {
     font-weight: bold;
+    font-size: 22px;
 }
 
 .translation {
+    grid-column: 2;
     color: #526477;
+    font-size: 15px;
 }
 
 #status {
@@ -62,12 +66,16 @@ h1 {
 
 @media (max-width: 550px) {
     .entry {
-        grid-template-columns: 1fr 1fr;
-        gap: 5px;
+        grid-template-columns: 1fr;
+        gap: 6px;
     }
 
     .translation {
-        grid-column: 1 / -1;
+        grid-column: 1;
+    }
+
+    .word {
+        font-size: 21px;
     }
 }
 </style>
