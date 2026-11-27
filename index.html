@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -112,6 +113,26 @@ code {
 }
 .example p {
     margin: 4px 0;
+}
+.dictionary-link {
+    text-align: center;
+    margin: 45px 0 10px;
+}
+.dictionary-link a {
+    display: inline-block;
+    padding: 13px 36px;
+    background: var(--primary);
+    color: white;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 1rem;
+    border-radius: 8px;
+    box-shadow: 0 3px 10px rgba(20, 70, 110, 0.15);
+    transition: background 0.2s, transform 0.2s;
+}
+.dictionary-link a:hover {
+    background: var(--primary-dark);
+    transform: translateY(-2px);
 }
 footer {
     padding: 28px 20px;
@@ -522,6 +543,10 @@ footer {
 <p>All letters not covered by the preceding article shall generally be written in lowercase.</p>
 </article>
 </section>
+
+<div class="dictionary-link">
+    <a href="/dict/index.html">Dictionary</a>
+</div>
 
 </main>
 
