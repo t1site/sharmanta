@@ -96,7 +96,7 @@ let dictionary = [];
 
 async function loadDictionary() {
     try {
-        const response = await fetch("./data/dictionary.json");
+        const response = await fetch("../data/dictionary.json");
 
         if (!response.ok) {
             throw new Error("Failed to load dictionary.");
