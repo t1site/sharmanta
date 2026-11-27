@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Dictionary</title>
+
+<style>
+body {
+    margin: 0;
+    padding: 30px 20px;
+    font-family: Arial, sans-serif;
+    background: #f5f8fc;
+    color: #263445;
+}
+
+main {
+    max-width: 800px;
+    margin: auto;
+}
+
+h1 {
+    color: #1769aa;
+}
+
+#search {
+    width: 100%;
+    padding: 13px;
+    margin: 15px 0 25px;
+    border: 1px solid #ccd8e4;
+    border-radius: 8px;
+    font-size: 16px;
+    box-sizing: border-box;
+}
+
+.entry {
+    display: grid;
+    grid-template-columns: 120px 1fr 2fr;
+    gap: 15px;
+    padding: 15px;
+    background: white;
+    border-bottom: 1px solid #e1e8ef;
+}
+
+.part-of-speech {
+    color: #1769aa;
+    font-size: 13px;
+}
+
+.word {
+    font-weight: bold;
+}
+
+.translation {
+    color: #526477;
+}
+
+#status {
+    color: #64748b;
+    margin-bottom: 15px;
+}
+
+@media (max-width: 550px) {
+    .entry {
+        grid-template-columns: 1fr 1fr;
+        gap: 5px;
+    }
+
+    .translation {
+        grid-column: 1 / -1;
+    }
+}
+</style>
+</head>
+
+<body>
+<main>
+    <h1>Dictionary</h1>
+
+    <input
+        type="search"
+        id="search"
+        placeholder="Search words..."
+    >
+
+    <p id="status">Loading dictionary...</p>
+    <div id="dictionary"></div>
+</main>
+
+<script>
+const dictionaryElement = document.getElementById("dictionary");
+const searchInput = document.getElementById("search");
+const statusElement = document.getElementById("status");
+
+let dictionary = [];
+
+async function loadDictionary() {
+    try {
+        const response = await fetch("./data/dictionary.json");
+
+        if (!response.ok) {
+            throw new Error("Failed to load dictionary.");
+        }
+
+        dictionary = await response.json();
+
+        displayDictionary(dictionary);
+    } catch (error) {
+        statusElement.textContent = error.message;
+    }
+}
+
+function displayDictionary(entries) {
+    dictionaryElement.replaceChildren();
+
+    statusElement.textContent =
+        `${entries.length} entries`;
+
+    for (const entry of entries) {
+        const row = document.createElement("div");
+        row.className = "entry";
+
+        const partOfSpeech = document.createElement("span");
+        partOfSpeech.className = "part-of-speech";
+        partOfSpeech.textContent = entry.partOfSpeech;
+
+        const word = document.createElement("span");
+        word.className = "word";
+        word.textContent = entry.word;
+
+        const translation = document.createElement("span");
+        translation.className = "translation";
+        translation.textContent = entry.translation;
+
+        row.append(partOfSpeech, word, translation);
+        dictionaryElement.appendChild(row);
+    }
+}
+
+searchInput.addEventListener("input", () => {
+    const query = searchInput.value.toLowerCase();
+
+    const filtered = dictionary.filter(entry =>
+        entry.word.toLowerCase().includes(query) ||
+        entry.translation.toLowerCase().includes(query) ||
+        entry.partOfSpeech.toLowerCase().includes(query)
+    );
+
+    displayDictionary(filtered);
+});
+
+loadDictionary();
+</script>
+</body>
+</html>
