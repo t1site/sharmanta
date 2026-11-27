@@ -23,10 +23,38 @@ h1 {
     color: #1769aa;
 }
 
+.search-modes {
+    display: flex;
+    gap: 8px;
+    margin: 15px 0 10px;
+}
+
+.search-mode {
+    padding: 9px 22px;
+    border: 1px solid #ccd8e4;
+    border-radius: 7px;
+    background: white;
+    color: #526477;
+    font-size: 14px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+.search-mode.active {
+    background: #1769aa;
+    border-color: #1769aa;
+    color: white;
+}
+
+.search-mode:hover {
+    border-color: #1769aa;
+}
+
 #search {
     width: 100%;
     padding: 13px;
-    margin: 15px 0 25px;
+    margin: 5px 0 25px;
     border: 1px solid #ccd8e4;
     border-radius: 8px;
     font-size: 16px;
@@ -85,10 +113,20 @@ h1 {
 <main>
     <h1>Dictionary</h1>
 
+    <div class="search-modes">
+        <button class="search-mode active" data-mode="cr">
+            ÇR
+        </button>
+
+        <button class="search-mode" data-mode="en">
+            EN
+        </button>
+    </div>
+
     <input
         type="search"
         id="search"
-        placeholder="Search words..."
+        placeholder="Search Linguo çarmanta words..."
     >
 
     <p id="status">Loading dictionary...</p>
@@ -99,8 +137,10 @@ h1 {
 const dictionaryElement = document.getElementById("dictionary");
 const searchInput = document.getElementById("search");
 const statusElement = document.getElementById("status");
+const modeButtons = document.querySelectorAll(".search-mode");
 
 let dictionary = [];
+let searchMode = "cr";
 
 async function loadDictionary() {
     try {
@@ -145,17 +185,41 @@ function displayDictionary(entries) {
     }
 }
 
-searchInput.addEventListener("input", () => {
-    const query = searchInput.value.toLowerCase();
+function searchDictionary() {
+    const query = searchInput.value.trim().toLowerCase();
 
-    const filtered = dictionary.filter(entry =>
-        entry.word.toLowerCase().includes(query) ||
-        entry.translation.toLowerCase().includes(query) ||
-        entry.partOfSpeech.toLowerCase().includes(query)
-    );
+    const filtered = dictionary.filter(entry => {
+        if (searchMode === "cr") {
+            return entry.word.toLowerCase().includes(query);
+        }
+
+        return entry.translation.toLowerCase().includes(query);
+    });
 
     displayDictionary(filtered);
+}
+
+modeButtons.forEach(button => {
+    button.addEventListener("click", () => {
+        searchMode = button.dataset.mode;
+
+        modeButtons.forEach(btn => {
+            btn.classList.toggle("active", btn === button);
+        });
+
+        searchInput.value = "";
+
+        searchInput.placeholder =
+            searchMode === "cr"
+                ? "Search Linguo çarmanta words..."
+                : "Search English meanings...";
+
+        searchDictionary();
+        searchInput.focus();
+    });
 });
+
+searchInput.addEventListener("input", searchDictionary);
 
 loadDictionary();
 </script>
