@@ -15,6 +15,7 @@ Prefix eks- Previous; former
 Pronoun elo he, she
 Preposition entres between
 Conjunction es and
+Verb espêre hope
 Verb estae be
 Preposition finos until
 Noun fono sound
@@ -58,10 +59,9 @@ Noun telefono telephone
 Noun telefono-sapienta smartphone
 Noun terro earth
 Pronoun tuo you
+Verb vene come
 Verb vere see, look, watch, view
 Interrogative wand when
 Interrogative want how many
 Interrogative wem what
 Interrogative win who
-Verb vene come
-Verb espêre hope
