@@ -69,4 +69,4 @@ Interrogative wand when
 Interrogative want how many
 Interrogative wem what
 Interrogative win who
-Conjunction ekit as
+Conjunction ekit as(comparison of equality)
