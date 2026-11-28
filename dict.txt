@@ -39,6 +39,7 @@ Verb estae be
 Verb fare do, make
 Preposition finos until
 Noun fono sound
+Noun frateko brotherhood
 Noun gloro glory
 Verb guide guide, lead
 Noun homo man
@@ -133,4 +134,3 @@ Interrogative want how many
 Interrogative wem what
 Interrogative win who
 Numeral zers zero
-Noun frateko brotherhood
