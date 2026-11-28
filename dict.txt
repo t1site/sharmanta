@@ -17,7 +17,7 @@ Preposition dedis from
 Numeral deks ten
 Numeral deks-diks hundred thousand
 Numeral diks ten thousand
-Numeral diks-pis-ço hundred million
+Numeral diks-pis-duo hundred million
 Preposition dis of
 Interrogative dov where
 Numeral duos two
