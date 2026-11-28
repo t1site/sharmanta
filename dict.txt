@@ -4,10 +4,13 @@ Interjection âmen amen
 Adjective bona good
 Prefix cef- Main; leading; foremost; supreme
 Noun celo sky, heaven
+Pronoun ceo this, that
+Noun çaka every
 Adjective çarmanta beautiful
 Pronoun ço it
 Noun çokolo chocolate
 Interrogative çom how
+Verb dare give
 Preposition dedis from
 Preposition dis of
 Interrogative dov where
@@ -25,6 +28,12 @@ Noun fono sound
 Noun homo man
 Preposition ins in
 Pronoun jo I
+Adverb jourçaka daily
+Noun jourçako everyday
+Noun jouro day
+Interjection jourobona hello
+Noun jourocea today
+Adverb jouroceu today
 Conjunction kit than
 Preposition kons with
 Preposition kontres against
@@ -43,6 +52,8 @@ Noun nomo name
 Conjunction ous or
 Noun padero father
 Noun pajo country
+Noun pano bread
+Verb perdone forgive
 Noun persono person, human
 Preposition pirs by
 Noun planeto planet
@@ -56,6 +67,7 @@ Noun sabpräsidenso vice-president
 Preposition sans without
 Adjective santa holy, sacred
 Adjective sapienta wise
+Noun sino sin, crime
 Conjunction sit if
 Preposition sos under
 Noun statuo state
@@ -66,20 +78,8 @@ Noun terro earth
 Pronoun tuo you
 Verb vene come
 Verb vere see, look, watch, view
+Noun vonto will
 Interrogative wand when
 Interrogative want how many
 Interrogative wem what
 Interrogative win who
-Noun vonto will
-Verb dare give
-Verb perdone forgive
-Noun jouro day
-Interjection jourobona hello
-Noun jourocea today
-Pronoun ceo this, that
-Adverb jouroceu today
-Noun çaka every
-Noun jourçako everyday
-Adverb jourçaka daily
-Noun pano bread
-Noun sino sin, crime

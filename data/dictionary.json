@@ -30,6 +30,16 @@
     "translation": "sky, heaven"
   },
   {
+    "partOfSpeech": "Pronoun",
+    "word": "ceo",
+    "translation": "this, that"
+  },
+  {
+    "partOfSpeech": "Noun",
+    "word": "çaka",
+    "translation": "every"
+  },
+  {
     "partOfSpeech": "Adjective",
     "word": "çarmanta",
     "translation": "beautiful"
@@ -48,6 +58,11 @@
     "partOfSpeech": "Interrogative",
     "word": "çom",
     "translation": "how"
+  },
+  {
+    "partOfSpeech": "Verb",
+    "word": "dare",
+    "translation": "give"
   },
   {
     "partOfSpeech": "Preposition",
@@ -133,6 +148,36 @@
     "partOfSpeech": "Pronoun",
     "word": "jo",
     "translation": "I"
+  },
+  {
+    "partOfSpeech": "Adverb",
+    "word": "jourçaka",
+    "translation": "daily"
+  },
+  {
+    "partOfSpeech": "Noun",
+    "word": "jourçako",
+    "translation": "everyday"
+  },
+  {
+    "partOfSpeech": "Noun",
+    "word": "jouro",
+    "translation": "day"
+  },
+  {
+    "partOfSpeech": "Interjection",
+    "word": "jourobona",
+    "translation": "hello"
+  },
+  {
+    "partOfSpeech": "Noun",
+    "word": "jourocea",
+    "translation": "today"
+  },
+  {
+    "partOfSpeech": "Adverb",
+    "word": "jouroceu",
+    "translation": "today"
   },
   {
     "partOfSpeech": "Conjunction",
@@ -226,6 +271,16 @@
   },
   {
     "partOfSpeech": "Noun",
+    "word": "pano",
+    "translation": "bread"
+  },
+  {
+    "partOfSpeech": "Verb",
+    "word": "perdone",
+    "translation": "forgive"
+  },
+  {
+    "partOfSpeech": "Noun",
     "word": "persono",
     "translation": "person, human"
   },
@@ -288,6 +343,11 @@
     "partOfSpeech": "Adjective",
     "word": "sapienta",
     "translation": "wise"
+  },
+  {
+    "partOfSpeech": "Noun",
+    "word": "sino",
+    "translation": "sin, crime"
   },
   {
     "partOfSpeech": "Conjunction",
