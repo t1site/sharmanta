@@ -136,5 +136,5 @@ Interrogative wand when
 Interrogative want how many
 Interrogative wem what
 Interrogative win who
-Numeral zers zero
 Noun worto word
+Numeral zers zero

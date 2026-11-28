@@ -690,6 +690,11 @@
     "translation": "who"
   },
   {
+    "partOfSpeech": "Noun",
+    "word": "worto",
+    "translation": "word"
+  },
+  {
     "partOfSpeech": "Numeral",
     "word": "zers",
     "translation": "zero"
