@@ -31,9 +31,11 @@ Verb mange eat
 Noun matero mother
 Conjunction mes but
 Prefix mis- Wrong; incorrect
+Noun naçio nation
 Noun nomo name
 Conjunction ous or
 Noun padero father
+Noun pajo country
 Noun persono person, human
 Preposition pirs by
 Noun pluvo rain
@@ -47,6 +49,7 @@ Adjective santa holy, sacred
 Adjective sapienta wise
 Conjunction sit if
 Preposition sos under
+Noun statuo state
 Preposition surs on
 Noun telefono telephone
 Noun telefono-sapienta smartphone
@@ -56,6 +59,3 @@ Interrogative wand when
 Interrogative want how many
 Interrogative wem what
 Interrogative win who
-Noun naçio nation
-Noun pajo country
-Noun statuo state

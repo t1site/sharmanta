@@ -166,6 +166,11 @@
   },
   {
     "partOfSpeech": "Noun",
+    "word": "naçio",
+    "translation": "nation"
+  },
+  {
+    "partOfSpeech": "Noun",
     "word": "nomo",
     "translation": "name"
   },
@@ -178,6 +183,11 @@
     "partOfSpeech": "Noun",
     "word": "padero",
     "translation": "father"
+  },
+  {
+    "partOfSpeech": "Noun",
+    "word": "pajo",
+    "translation": "country"
   },
   {
     "partOfSpeech": "Noun",
@@ -243,6 +253,11 @@
     "partOfSpeech": "Preposition",
     "word": "sos",
     "translation": "under"
+  },
+  {
+    "partOfSpeech": "Noun",
+    "word": "statuo",
+    "translation": "state"
   },
   {
     "partOfSpeech": "Preposition",
