@@ -41,3 +41,6 @@ Interrogative wand when
 Interrogative want how many
 Interrogative wem what
 Interrogative win who
+Noun fono sound
+Noun telefono telephone
+Noun telefono-sapienta smartphone
