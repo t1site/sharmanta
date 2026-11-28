@@ -84,3 +84,6 @@ Interrogative wand when
 Interrogative want how many
 Interrogative wem what
 Interrogative win who
+Verb tente tempt
+Verb sauve save
+Function-word non not
