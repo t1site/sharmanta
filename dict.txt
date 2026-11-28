@@ -56,3 +56,6 @@ Interrogative wand when
 Interrogative want how many
 Interrogative wem what
 Interrogative win who
+Noun naçio nation
+Noun pajo country
+Noun statuo state
