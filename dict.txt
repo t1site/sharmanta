@@ -73,6 +73,7 @@ Numeral mils thousand
 Numeral mils-diks ten million
 Prefix mis- Wrong; incorrect
 Noun mondo world
+Verb morire die
 Noun naçio nation
 Noun nasko birth
 Noun nomo name
@@ -136,4 +137,3 @@ Interrogative want how many
 Interrogative wem what
 Interrogative win who
 Numeral zers zero
-Verb morire die

@@ -375,6 +375,11 @@
     "translation": "world"
   },
   {
+    "partOfSpeech": "Verb",
+    "word": "morire",
+    "translation": "die"
+  },
+  {
     "partOfSpeech": "Noun",
     "word": "naçio",
     "translation": "nation"
