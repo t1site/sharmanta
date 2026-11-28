@@ -68,12 +68,14 @@ Interrogative porswem why
 Verb pove can do
 Noun povo power
 Noun präsidenso president
+Verb priere pray
 Prefix re- Again; back to the original state
 Noun sabpräsidenso vice-president
 Preposition sans without
 Adjective santa holy, sacred
 Adjective sapienta wise
 Verb sauve save
+Noun seinjo lord
 Noun sino sin, crime
 Conjunction sit if
 Preposition sos under
@@ -91,5 +93,3 @@ Interrogative wand when
 Interrogative want how many
 Interrogative wem what
 Interrogative win who
-Noun seinjo lord
-Verb priere pray

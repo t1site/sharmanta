@@ -350,6 +350,11 @@
     "translation": "president"
   },
   {
+    "partOfSpeech": "Verb",
+    "word": "priere",
+    "translation": "pray"
+  },
+  {
     "partOfSpeech": "Prefix",
     "word": "re-",
     "translation": "Again; back to the original state"
@@ -378,6 +383,11 @@
     "partOfSpeech": "Verb",
     "word": "sauve",
     "translation": "save"
+  },
+  {
+    "partOfSpeech": "Noun",
+    "word": "seinjo",
+    "translation": "lord"
   },
   {
     "partOfSpeech": "Noun",
