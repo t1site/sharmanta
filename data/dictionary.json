@@ -20,6 +20,11 @@
     "translation": "Main; leading; foremost; supreme"
   },
   {
+    "partOfSpeech": "Noun",
+    "word": "celo",
+    "translation": "sky, heaven"
+  },
+  {
     "partOfSpeech": "Adjective",
     "word": "çarmanta",
     "translation": "beautiful"
@@ -201,6 +206,16 @@
   },
   {
     "partOfSpeech": "Noun",
+    "word": "planeto",
+    "translation": "planet"
+  },
+  {
+    "partOfSpeech": "Noun",
+    "word": "Planeto-terra",
+    "translation": "Earth"
+  },
+  {
+    "partOfSpeech": "Noun",
     "word": "pluvo",
     "translation": "rain"
   },
@@ -273,6 +288,11 @@
     "partOfSpeech": "Noun",
     "word": "telefono-sapienta",
     "translation": "smartphone"
+  },
+  {
+    "partOfSpeech": "Noun",
+    "word": "terro",
+    "translation": "earth"
   },
   {
     "partOfSpeech": "Pronoun",

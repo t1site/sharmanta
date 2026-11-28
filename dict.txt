@@ -2,6 +2,7 @@ Noun akûo water
 Preposition as to
 Adjective bona good
 Prefix cef- Main; leading; foremost; supreme
+Noun celo sky, heaven
 Adjective çarmanta beautiful
 Pronoun ço it
 Noun çokolo chocolate
@@ -38,6 +39,8 @@ Noun padero father
 Noun pajo country
 Noun persono person, human
 Preposition pirs by
+Noun planeto planet
+Noun Planeto-terra Earth
 Noun pluvo rain
 Preposition pors for
 Interrogative porswem why
@@ -53,13 +56,10 @@ Noun statuo state
 Preposition surs on
 Noun telefono telephone
 Noun telefono-sapienta smartphone
+Noun terro earth
 Pronoun tuo you
 Verb vere see, look, watch, view
 Interrogative wand when
 Interrogative want how many
 Interrogative wem what
 Interrogative win who
-Noun celo sky, heaven
-Noun terro earth
-Noun planeto planet
-Noun Planeto-terra Earth
