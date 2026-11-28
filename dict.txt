@@ -31,3 +31,8 @@ Interrogative wand when
 Interrogative want how many
 Interrogative wem what
 Interrogative win who
+Verb mange eat
+Noun homo man
+Adjective sapienta wise
+Noun persono person, human
+Noun pluvo rain
