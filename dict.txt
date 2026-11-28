@@ -12,6 +12,7 @@ Preposition entres between
 Conjunction es and
 Verb estae be
 Preposition finos until
+Noun fono sound
 Noun homo man
 Preposition ins in
 Pronoun jo I
@@ -35,12 +36,11 @@ Adjective sapienta wise
 Conjunction sit if
 Preposition sos under
 Preposition surs on
+Noun telefono telephone
+Noun telefono-sapienta smartphone
 Pronoun tuo you
 Verb vere see, look, watch, view
 Interrogative wand when
 Interrogative want how many
 Interrogative wem what
 Interrogative win who
-Noun fono sound
-Noun telefono telephone
-Noun telefono-sapienta smartphone

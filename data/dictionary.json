@@ -71,6 +71,11 @@
   },
   {
     "partOfSpeech": "Noun",
+    "word": "fono",
+    "translation": "sound"
+  },
+  {
+    "partOfSpeech": "Noun",
     "word": "homo",
     "translation": "man"
   },
@@ -183,6 +188,16 @@
     "partOfSpeech": "Preposition",
     "word": "surs",
     "translation": "on"
+  },
+  {
+    "partOfSpeech": "Noun",
+    "word": "telefono",
+    "translation": "telephone"
+  },
+  {
+    "partOfSpeech": "Noun",
+    "word": "telefono-sapienta",
+    "translation": "smartphone"
   },
   {
     "partOfSpeech": "Pronoun",
