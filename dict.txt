@@ -11,6 +11,7 @@ Interrogative çom how
 Preposition dedis from
 Preposition dis of
 Interrogative dov where
+Conjunction ekit as(comparison of equality)
 Noun ekspräsidenso previous-president
 Prefix eks- Previous; former
 Pronoun elo he, she
@@ -69,4 +70,3 @@ Interrogative wand when
 Interrogative want how many
 Interrogative wem what
 Interrogative win who
-Conjunction ekit as(comparison of equality)

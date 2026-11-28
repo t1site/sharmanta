@@ -65,6 +65,11 @@
     "translation": "where"
   },
   {
+    "partOfSpeech": "Conjunction",
+    "word": "ekit",
+    "translation": "as(comparison of equality)"
+  },
+  {
     "partOfSpeech": "Noun",
     "word": "ekspräsidenso",
     "translation": "previous-president"
