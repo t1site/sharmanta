@@ -28,11 +28,11 @@ Noun fono sound
 Noun homo man
 Preposition ins in
 Pronoun jo I
-Adverb jourçaka daily
+Adverb jourçaku daily
 Noun jourçako everyday
 Noun jouro day
 Interjection jourobona hello
-Noun jourocea today
+Noun jouroceo today
 Adverb jouroceu today
 Conjunction kit than
 Preposition kons with
