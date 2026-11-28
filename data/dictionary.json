@@ -6,6 +6,11 @@
   },
   {
     "partOfSpeech": "Adjective",
+    "word": "bona",
+    "translation": "good"
+  },
+  {
+    "partOfSpeech": "Adjective",
     "word": "çarmanta",
     "translation": "beautiful"
   },
@@ -33,6 +38,11 @@
     "partOfSpeech": "Interrogative",
     "word": "dov",
     "translation": "where"
+  },
+  {
+    "partOfSpeech": "Noun",
+    "word": "ekspräsidenso",
+    "translation": "previous-president"
   },
   {
     "partOfSpeech": "Pronoun",
@@ -95,6 +105,11 @@
     "translation": "language"
   },
   {
+    "partOfSpeech": "Adjective",
+    "word": "malbona",
+    "translation": "bad"
+  },
+  {
     "partOfSpeech": "Verb",
     "word": "mange",
     "translation": "eat"
@@ -133,6 +148,16 @@
     "partOfSpeech": "Interrogative",
     "word": "porswem",
     "translation": "why"
+  },
+  {
+    "partOfSpeech": "Noun",
+    "word": "präsidenso",
+    "translation": "president"
+  },
+  {
+    "partOfSpeech": "Noun",
+    "word": "sabpräsidenso",
+    "translation": "vice-president"
   },
   {
     "partOfSpeech": "Preposition",
