@@ -135,6 +135,11 @@
     "translation": "sound"
   },
   {
+    "partOfSpeech": "Verb",
+    "word": "guide",
+    "translation": "guide, lead"
+  },
+  {
     "partOfSpeech": "Noun",
     "word": "homo",
     "translation": "man"

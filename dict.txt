@@ -25,6 +25,7 @@ Verb estae be
 Verb fare do, make
 Preposition finos until
 Noun fono sound
+Verb guide guide, lead
 Noun homo man
 Preposition ins in
 Pronoun jo I
@@ -83,4 +84,3 @@ Interrogative wand when
 Interrogative want how many
 Interrogative wem what
 Interrogative win who
-Verb guide guide, lead
