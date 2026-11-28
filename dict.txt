@@ -78,6 +78,7 @@ Noun nasko birth
 Noun nomo name
 Function-word non not
 Numeral nous nine
+Interjection nôl no
 Numeral otos eight
 Conjunction ous or
 Noun padero father
@@ -114,6 +115,7 @@ Numeral seps seven
 Numeral siks six
 Noun sino sin, crime
 Conjunction sis if
+Interjection sîl yes
 Noun soçito society
 Preposition sos under
 Noun statuo state
@@ -134,5 +136,3 @@ Interrogative want how many
 Interrogative wem what
 Interrogative win who
 Numeral zers zero
-Interjection sîl yes
-Interjection nôl no
