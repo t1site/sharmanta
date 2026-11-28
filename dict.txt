@@ -25,6 +25,7 @@ Noun direporsoçito declaration
 Preposition dis of
 Interrogative dov where
 Numeral duos two
+Adjective egala equal
 Conjunction ekis as(comparison of equality)
 Noun ekspräsidenso previous-president
 Prefix eks- Previous; former
@@ -127,4 +128,3 @@ Interrogative want how many
 Interrogative wem what
 Interrogative win who
 Numeral zers zero
-Adjective egala equal

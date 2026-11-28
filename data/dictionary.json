@@ -135,6 +135,11 @@
     "translation": "two"
   },
   {
+    "partOfSpeech": "Adjective",
+    "word": "egala",
+    "translation": "equal"
+  },
+  {
     "partOfSpeech": "Conjunction",
     "word": "ekis",
     "translation": "as(comparison of equality)"
