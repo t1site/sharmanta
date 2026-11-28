@@ -17,6 +17,7 @@ Verb dare give
 Preposition dedis from
 Numeral deks ten
 Numeral deks-diks hundred thousand
+Noun digno dignity
 Numeral diks ten thousand
 Numeral diks-pis-duo hundred million
 Verb dire say
@@ -128,4 +129,3 @@ Interrogative want how many
 Interrogative wem what
 Interrogative win who
 Numeral zers zero
-Noun digno dignity
