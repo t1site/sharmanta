@@ -1,6 +1,11 @@
 [
   {
     "partOfSpeech": "Noun",
+    "word": "akto",
+    "translation": "action"
+  },
+  {
+    "partOfSpeech": "Noun",
     "word": "akûo",
     "translation": "water"
   },
