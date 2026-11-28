@@ -100,6 +100,21 @@
     "translation": "hundred million"
   },
   {
+    "partOfSpeech": "Verb",
+    "word": "dire",
+    "translation": "say"
+  },
+  {
+    "partOfSpeech": "Verb",
+    "word": "direporsoçite",
+    "translation": "declare"
+  },
+  {
+    "partOfSpeech": "Noun",
+    "word": "direporsoçito",
+    "translation": "declaration"
+  },
+  {
     "partOfSpeech": "Preposition",
     "word": "dis",
     "translation": "of"
@@ -265,6 +280,21 @@
     "translation": "milk"
   },
   {
+    "partOfSpeech": "Verb",
+    "word": "libere",
+    "translation": "be free"
+  },
+  {
+    "partOfSpeech": "Noun",
+    "word": "libero",
+    "translation": "freedom, liberty"
+  },
+  {
+    "partOfSpeech": "Noun",
+    "word": "libro",
+    "translation": "book"
+  },
+  {
     "partOfSpeech": "Noun",
     "word": "linguo",
     "translation": "language"
@@ -375,6 +405,11 @@
     "translation": "person, human"
   },
   {
+    "partOfSpeech": "Noun",
+    "word": "personois-povioes",
+    "translation": "human rights"
+  },
+  {
     "partOfSpeech": "Preposition",
     "word": "pirs",
     "translation": "by"
@@ -423,6 +458,11 @@
     "partOfSpeech": "Verb",
     "word": "pove",
     "translation": "can do"
+  },
+  {
+    "partOfSpeech": "Noun",
+    "word": "povio",
+    "translation": "right, entitlement"
   },
   {
     "partOfSpeech": "Noun",
@@ -493,6 +533,11 @@
     "partOfSpeech": "Conjunction",
     "word": "sis",
     "translation": "if"
+  },
+  {
+    "partOfSpeech": "Noun",
+    "word": "soçito",
+    "translation": "society"
   },
   {
     "partOfSpeech": "Preposition",
