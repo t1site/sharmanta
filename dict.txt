@@ -3,6 +3,7 @@ Adjective bona good
 Prefix cef- Main; leading; foremost; supreme
 Adjective çarmanta beautiful
 Pronoun ço it
+Noun çokolo chocolate
 Interrogative çom how
 Preposition dedis from
 Preposition dis of
@@ -21,13 +22,17 @@ Pronoun jo I
 Conjunction kit than
 Preposition kons with
 Preposition kontres against
+Noun leco milk
 Noun linguo language
 Adjective malbona bad
 Prefix mal- To make the opposite; opposite-making
 Verb mange eat
+Noun matero mother
 Conjunction mes but
 Prefix mis- Wrong; incorrect
+Noun nomo name
 Conjunction ous or
+Noun padero father
 Noun persono person, human
 Preposition pirs by
 Noun pluvo rain
@@ -37,6 +42,7 @@ Noun präsidenso president
 Prefix re- Again; back to the original state
 Noun sabpräsidenso vice-president
 Preposition sans without
+Adjective santa holy, sacred
 Adjective sapienta wise
 Conjunction sit if
 Preposition sos under
@@ -49,9 +55,3 @@ Interrogative wand when
 Interrogative want how many
 Interrogative wem what
 Interrogative win who
-Noun çokolo chocolate
-Noun leco milk
-Noun padero father
-Noun matero mother
-Noun nomo name
-Adjective santa holy, sacred

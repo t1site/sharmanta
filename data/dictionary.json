@@ -25,6 +25,11 @@
     "translation": "it"
   },
   {
+    "partOfSpeech": "Noun",
+    "word": "çokolo",
+    "translation": "chocolate"
+  },
+  {
     "partOfSpeech": "Interrogative",
     "word": "çom",
     "translation": "how"
@@ -116,6 +121,11 @@
   },
   {
     "partOfSpeech": "Noun",
+    "word": "leco",
+    "translation": "milk"
+  },
+  {
+    "partOfSpeech": "Noun",
     "word": "linguo",
     "translation": "language"
   },
@@ -135,6 +145,11 @@
     "translation": "eat"
   },
   {
+    "partOfSpeech": "Noun",
+    "word": "matero",
+    "translation": "mother"
+  },
+  {
     "partOfSpeech": "Conjunction",
     "word": "mes",
     "translation": "but"
@@ -145,9 +160,19 @@
     "translation": "Wrong; incorrect"
   },
   {
+    "partOfSpeech": "Noun",
+    "word": "nomo",
+    "translation": "name"
+  },
+  {
     "partOfSpeech": "Conjunction",
     "word": "ous",
     "translation": "or"
+  },
+  {
+    "partOfSpeech": "Noun",
+    "word": "padero",
+    "translation": "father"
   },
   {
     "partOfSpeech": "Noun",
@@ -193,6 +218,11 @@
     "partOfSpeech": "Preposition",
     "word": "sans",
     "translation": "without"
+  },
+  {
+    "partOfSpeech": "Adjective",
+    "word": "santa",
+    "translation": "holy, sacred"
   },
   {
     "partOfSpeech": "Adjective",
