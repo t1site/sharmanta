@@ -190,6 +190,11 @@
     "translation": "in"
   },
   {
+    "partOfSpeech": "Adjective",
+    "word": "internaçio",
+    "translation": "international"
+  },
+  {
     "partOfSpeech": "Pronoun",
     "word": "jo",
     "translation": "I"
@@ -308,6 +313,11 @@
     "partOfSpeech": "Prefix",
     "word": "mis-",
     "translation": "Wrong; incorrect"
+  },
+  {
+    "partOfSpeech": "Noun",
+    "word": "mondo",
+    "translation": "world"
   },
   {
     "partOfSpeech": "Noun",
@@ -528,6 +538,11 @@
     "partOfSpeech": "Pronoun",
     "word": "tuo",
     "translation": "you"
+  },
+  {
+    "partOfSpeech": "Adjective",
+    "word": "unimonda",
+    "translation": "universal"
   },
   {
     "partOfSpeech": "Numeral",

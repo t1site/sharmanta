@@ -36,6 +36,7 @@ Noun gloro glory
 Verb guide guide, lead
 Noun homo man
 Preposition ins in
+Adjective internaçio international
 Pronoun jo I
 Noun jourçako everyday
 Adverb jourçaku daily
@@ -60,6 +61,7 @@ Conjunction mes but
 Numeral mils thousand
 Numeral mils-diks ten million
 Prefix mis- Wrong; incorrect
+Noun mondo world
 Noun naçio nation
 Noun nomo name
 Function-word non not
@@ -104,6 +106,7 @@ Verb tente tempt
 Noun terro earth
 Numeral tres three
 Pronoun tuo you
+Adjective unimonda universal
 Numeral unos one
 Verb vene come
 Verb vere see, look, watch, view
@@ -113,6 +116,3 @@ Interrogative want how many
 Interrogative wem what
 Interrogative win who
 Numeral zers zero
-Noun mondo world
-Adjective internaçio international
-Adjective unimonda universal
