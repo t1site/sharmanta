@@ -260,6 +260,11 @@
     "translation": "name"
   },
   {
+    "partOfSpeech": "Function-word",
+    "word": "non",
+    "translation": "not"
+  },
+  {
     "partOfSpeech": "Conjunction",
     "word": "ous",
     "translation": "or"
@@ -350,6 +355,11 @@
     "translation": "wise"
   },
   {
+    "partOfSpeech": "Verb",
+    "word": "sauve",
+    "translation": "save"
+  },
+  {
     "partOfSpeech": "Noun",
     "word": "sino",
     "translation": "sin, crime"
@@ -383,6 +393,11 @@
     "partOfSpeech": "Noun",
     "word": "telefono-sapienta",
     "translation": "smartphone"
+  },
+  {
+    "partOfSpeech": "Verb",
+    "word": "tente",
+    "translation": "tempt"
   },
   {
     "partOfSpeech": "Noun",

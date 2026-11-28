@@ -50,6 +50,7 @@ Conjunction mes but
 Prefix mis- Wrong; incorrect
 Noun naçio nation
 Noun nomo name
+Function-word non not
 Conjunction ous or
 Noun padero father
 Noun pajo country
@@ -68,6 +69,7 @@ Noun sabpräsidenso vice-president
 Preposition sans without
 Adjective santa holy, sacred
 Adjective sapienta wise
+Verb sauve save
 Noun sino sin, crime
 Conjunction sit if
 Preposition sos under
@@ -75,6 +77,7 @@ Noun statuo state
 Preposition surs on
 Noun telefono telephone
 Noun telefono-sapienta smartphone
+Verb tente tempt
 Noun terro earth
 Pronoun tuo you
 Verb vene come
@@ -84,6 +87,3 @@ Interrogative wand when
 Interrogative want how many
 Interrogative wem what
 Interrogative win who
-Verb tente tempt
-Verb sauve save
-Function-word non not
