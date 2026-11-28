@@ -150,14 +150,14 @@
     "translation": "I"
   },
   {
-    "partOfSpeech": "Adverb",
-    "word": "jourçaka",
-    "translation": "daily"
-  },
-  {
     "partOfSpeech": "Noun",
     "word": "jourçako",
     "translation": "everyday"
+  },
+  {
+    "partOfSpeech": "Adverb",
+    "word": "jourçaku",
+    "translation": "daily"
   },
   {
     "partOfSpeech": "Noun",
@@ -171,7 +171,7 @@
   },
   {
     "partOfSpeech": "Noun",
-    "word": "jourocea",
+    "word": "jouroceo",
     "translation": "today"
   },
   {
