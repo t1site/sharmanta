@@ -7,3 +7,26 @@ Conjunction kit than
 Noun linguo language
 Pronoun tuo you
 Verb vere see, look, watch, view
+Interrogative win who
+Interrogative wem what
+Interrogative dov where
+Interrogative wand when
+Interrogative porswem why
+Interrogative çom how
+Interrogative want how many
+Preposition as to
+Preposition dis of
+Preposition ins in
+Preposition pors for
+Preposition pirs by
+Preposition kons with
+Preposition sans without
+Preposition surs on
+Preposition sos under
+Preposition entres between
+Preposition finos until
+Preposition dedis from
+Preposition kontres againist
+Conjunction es and
+Conjunction mes or
+Conjunction sit if
