@@ -125,3 +125,4 @@ Interrogative want how many
 Interrogative wem what
 Interrogative win who
 Numeral zers zero
+Noun artiklo article
