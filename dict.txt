@@ -1,9 +1,9 @@
 Adjective çarmanta beautiful
-Noun linguo language
-Verb vere see, look, watch, view
+Pronoun ço it
+Pronoun elo he, she
 Verb estae be
 Pronoun jo I
-Pronoun tuo you
-Pronoun elo he, she
-Pronoun ço it
 Conjunction kit than
+Noun linguo language
+Pronoun tuo you
+Verb vere see, look, watch, view

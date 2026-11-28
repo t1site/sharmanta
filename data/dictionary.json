@@ -5,9 +5,39 @@
     "translation": "beautiful"
   },
   {
+    "partOfSpeech": "Pronoun",
+    "word": "ço",
+    "translation": "it"
+  },
+  {
+    "partOfSpeech": "Pronoun",
+    "word": "elo",
+    "translation": "he, she"
+  },
+  {
+    "partOfSpeech": "Verb",
+    "word": "estae",
+    "translation": "be"
+  },
+  {
+    "partOfSpeech": "Pronoun",
+    "word": "jo",
+    "translation": "I"
+  },
+  {
+    "partOfSpeech": "Conjunction",
+    "word": "kit",
+    "translation": "than"
+  },
+  {
     "partOfSpeech": "Noun",
     "word": "linguo",
     "translation": "language"
+  },
+  {
+    "partOfSpeech": "Pronoun",
+    "word": "tuo",
+    "translation": "you"
   },
   {
     "partOfSpeech": "Verb",
