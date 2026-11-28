@@ -66,8 +66,20 @@ Noun terro earth
 Pronoun tuo you
 Verb vene come
 Verb vere see, look, watch, view
-Noun vonto will
 Interrogative wand when
 Interrogative want how many
 Interrogative wem what
 Interrogative win who
+Noun vonto will
+Verb dare give
+Verb perdone forgive
+Noun jouro day
+Interjection jourobona hello
+Noun jourocea today
+Pronoun ceo this, that
+Adverb jouroceu today
+Noun çaka every
+Noun jourçako everyday
+Adverb jourçaka daily
+Noun pano bread
+Noun sino sin, crime
