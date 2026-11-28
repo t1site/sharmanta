@@ -17,6 +17,7 @@ Preposition kons with
 Preposition kontres against
 Noun linguo language
 Conjunction mes but
+Conjunction ous or
 Preposition pirs by
 Preposition pors for
 Interrogative porswem why
@@ -30,4 +31,3 @@ Interrogative wand when
 Interrogative want how many
 Interrogative wem what
 Interrogative win who
-Conjunction ous or
