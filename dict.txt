@@ -59,3 +59,7 @@ Interrogative wand when
 Interrogative want how many
 Interrogative wem what
 Interrogative win who
+Noun celo sky, heaven
+Noun terro earth
+Noun planeto planet
+Noun Planeto-terra Earth
