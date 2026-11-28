@@ -70,6 +70,7 @@ Numeral mils-diks ten million
 Prefix mis- Wrong; incorrect
 Noun mondo world
 Noun naçio nation
+Noun nasko birth
 Noun nomo name
 Function-word non not
 Numeral nous nine
@@ -126,4 +127,3 @@ Interrogative want how many
 Interrogative wem what
 Interrogative win who
 Numeral zers zero
-Noun nasko birth
