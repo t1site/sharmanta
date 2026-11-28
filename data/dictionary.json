@@ -30,6 +30,16 @@
     "translation": "sky, heaven"
   },
   {
+    "partOfSpeech": "Numeral",
+    "word": "cens",
+    "translation": "hundred"
+  },
+  {
+    "partOfSpeech": "Numeral",
+    "word": "cens-diks",
+    "translation": "million"
+  },
+  {
     "partOfSpeech": "Pronoun",
     "word": "ceo",
     "translation": "this, that"
@@ -70,6 +80,26 @@
     "translation": "from"
   },
   {
+    "partOfSpeech": "Numeral",
+    "word": "deks",
+    "translation": "ten"
+  },
+  {
+    "partOfSpeech": "Numeral",
+    "word": "deks-diks",
+    "translation": "hundred thousand"
+  },
+  {
+    "partOfSpeech": "Numeral",
+    "word": "diks",
+    "translation": "ten thousand"
+  },
+  {
+    "partOfSpeech": "Numeral",
+    "word": "diks-pis-ço",
+    "translation": "hundred million"
+  },
+  {
     "partOfSpeech": "Preposition",
     "word": "dis",
     "translation": "of"
@@ -78,6 +108,11 @@
     "partOfSpeech": "Interrogative",
     "word": "dov",
     "translation": "where"
+  },
+  {
+    "partOfSpeech": "Numeral",
+    "word": "duos",
+    "translation": "two"
   },
   {
     "partOfSpeech": "Conjunction",
@@ -205,6 +240,16 @@
     "translation": "against"
   },
   {
+    "partOfSpeech": "Numeral",
+    "word": "kuas",
+    "translation": "four"
+  },
+  {
+    "partOfSpeech": "Numeral",
+    "word": "kuis",
+    "translation": "five"
+  },
+  {
     "partOfSpeech": "Noun",
     "word": "kuôre",
     "translation": "heart"
@@ -250,6 +295,16 @@
     "translation": "but"
   },
   {
+    "partOfSpeech": "Numeral",
+    "word": "mils",
+    "translation": "thousand"
+  },
+  {
+    "partOfSpeech": "Numeral",
+    "word": "mils-diks",
+    "translation": "ten million"
+  },
+  {
     "partOfSpeech": "Prefix",
     "word": "mis-",
     "translation": "Wrong; incorrect"
@@ -268,6 +323,16 @@
     "partOfSpeech": "Function-word",
     "word": "non",
     "translation": "not"
+  },
+  {
+    "partOfSpeech": "Numeral",
+    "word": "nous",
+    "translation": "nine"
+  },
+  {
+    "partOfSpeech": "Numeral",
+    "word": "otos",
+    "translation": "eight"
   },
   {
     "partOfSpeech": "Conjunction",
@@ -303,6 +368,16 @@
     "partOfSpeech": "Preposition",
     "word": "pirs",
     "translation": "by"
+  },
+  {
+    "partOfSpeech": "Conjunction",
+    "word": "pis",
+    "translation": "~ to the power of -"
+  },
+  {
+    "partOfSpeech": "Noun",
+    "word": "piwo",
+    "translation": "power(mathematics)"
   },
   {
     "partOfSpeech": "Noun",
@@ -390,6 +465,16 @@
     "translation": "lord"
   },
   {
+    "partOfSpeech": "Numeral",
+    "word": "seps",
+    "translation": "seven"
+  },
+  {
+    "partOfSpeech": "Numeral",
+    "word": "siks",
+    "translation": "six"
+  },
+  {
     "partOfSpeech": "Noun",
     "word": "sino",
     "translation": "sin, crime"
@@ -435,9 +520,19 @@
     "translation": "earth"
   },
   {
+    "partOfSpeech": "Numeral",
+    "word": "tres",
+    "translation": "three"
+  },
+  {
     "partOfSpeech": "Pronoun",
     "word": "tuo",
     "translation": "you"
+  },
+  {
+    "partOfSpeech": "Numeral",
+    "word": "unos",
+    "translation": "one"
   },
   {
     "partOfSpeech": "Verb",

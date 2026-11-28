@@ -4,6 +4,8 @@ Interjection âmen amen
 Adjective bona good
 Prefix cef- Main; leading; foremost; supreme
 Noun celo sky, heaven
+Numeral cens hundred
+Numeral cens-diks million
 Pronoun ceo this, that
 Noun çaka every
 Adjective çarmanta beautiful
@@ -12,8 +14,13 @@ Noun çokolo chocolate
 Interrogative çom how
 Verb dare give
 Preposition dedis from
+Numeral deks ten
+Numeral deks-diks hundred thousand
+Numeral diks ten thousand
+Numeral diks-pis-ço hundred million
 Preposition dis of
 Interrogative dov where
+Numeral duos two
 Conjunction ekis as(comparison of equality)
 Noun ekspräsidenso previous-president
 Prefix eks- Previous; former
@@ -39,6 +46,8 @@ Adverb jouroceu today
 Conjunction kis than
 Preposition kons with
 Preposition kontres against
+Numeral kuas four
+Numeral kuis five
 Noun kuôre heart
 Noun leco milk
 Noun linguo language
@@ -48,10 +57,14 @@ Verb mange eat
 Noun matero mother
 Verb mente mind
 Conjunction mes but
+Numeral mils thousand
+Numeral mils-diks ten million
 Prefix mis- Wrong; incorrect
 Noun naçio nation
 Noun nomo name
 Function-word non not
+Numeral nous nine
+Numeral otos eight
 Conjunction ous or
 Noun padero father
 Noun pajo country
@@ -59,6 +72,8 @@ Noun pano bread
 Verb perdone forgive
 Noun persono person, human
 Preposition pirs by
+Conjunction pis ~ to the power of -
+Noun piwo power(mathematics)
 Noun planeto planet
 Noun Planeto-terra Earth
 Noun pluvo rain
@@ -76,6 +91,8 @@ Adjective santa holy, sacred
 Adjective sapienta wise
 Verb sauve save
 Noun seinjo lord
+Numeral seps seven
+Numeral siks six
 Noun sino sin, crime
 Conjunction sis if
 Preposition sos under
@@ -85,7 +102,9 @@ Noun telefono telephone
 Noun telefono-sapienta smartphone
 Verb tente tempt
 Noun terro earth
+Numeral tres three
 Pronoun tuo you
+Numeral unos one
 Verb vene come
 Verb vere see, look, watch, view
 Noun vonto will
@@ -93,22 +112,3 @@ Interrogative wand when
 Interrogative want how many
 Interrogative wem what
 Interrogative win who
-Numeral unos one
-Numeral duos two
-Numeral tres three
-Numeral kuas four
-Numeral kuis five
-Numeral siks six
-Numeral seps seven
-Numeral otos eight
-Numeral nous nine
-Numeral deks ten
-Numeral cens hundred
-Numeral mils thousand
-Numeral diks ten thousand
-Numeral deks-diks hundred thousand
-Numeral cens-diks million
-Numeral mils-diks ten million
-Numeral diks-pis-ço hundred million
-Conjunction pis ~ to the power of -
-Noun piwo power(mathematics)
