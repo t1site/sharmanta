@@ -510,6 +510,11 @@
     "translation": "pray"
   },
   {
+    "partOfSpeech": "Adverb",
+    "word": "reciproku",
+    "translation": "each other"
+  },
+  {
     "partOfSpeech": "Prefix",
     "word": "re-",
     "translation": "Again; back to the original state"

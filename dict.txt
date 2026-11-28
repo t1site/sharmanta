@@ -100,6 +100,7 @@ Noun povio right, entitlement
 Noun povo power
 Noun präsidenso president
 Verb priere pray
+Adverb reciproku each other
 Prefix re- Again; back to the original state
 Noun sabpräsidenso vice-president
 Preposition sans without
@@ -131,4 +132,3 @@ Interrogative want how many
 Interrogative wem what
 Interrogative win who
 Numeral zers zero
-Adverb reciproku each other
