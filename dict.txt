@@ -17,6 +17,7 @@ Preposition entres between
 Conjunction es and
 Verb espêre hope
 Verb estae be
+Verb fare do, make
 Preposition finos until
 Noun fono sound
 Noun homo man
@@ -25,12 +26,14 @@ Pronoun jo I
 Conjunction kit than
 Preposition kons with
 Preposition kontres against
+Noun kuôre heart
 Noun leco milk
 Noun linguo language
 Adjective malbona bad
 Prefix mal- To make the opposite; opposite-making
 Verb mange eat
 Noun matero mother
+Verb mente mind
 Conjunction mes but
 Prefix mis- Wrong; incorrect
 Noun naçio nation
@@ -65,6 +68,3 @@ Interrogative wand when
 Interrogative want how many
 Interrogative wem what
 Interrogative win who
-Noun kuôre heart
-Verb mente mind
-Verb fare do, make

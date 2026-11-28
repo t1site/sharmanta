@@ -95,6 +95,11 @@
     "translation": "be"
   },
   {
+    "partOfSpeech": "Verb",
+    "word": "fare",
+    "translation": "do, make"
+  },
+  {
     "partOfSpeech": "Preposition",
     "word": "finos",
     "translation": "until"
@@ -136,6 +141,11 @@
   },
   {
     "partOfSpeech": "Noun",
+    "word": "kuôre",
+    "translation": "heart"
+  },
+  {
+    "partOfSpeech": "Noun",
     "word": "leco",
     "translation": "milk"
   },
@@ -163,6 +173,11 @@
     "partOfSpeech": "Noun",
     "word": "matero",
     "translation": "mother"
+  },
+  {
+    "partOfSpeech": "Verb",
+    "word": "mente",
+    "translation": "mind"
   },
   {
     "partOfSpeech": "Conjunction",
