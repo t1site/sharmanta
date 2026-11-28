@@ -7,7 +7,7 @@ Noun celo sky, heaven
 Numeral cens hundred
 Numeral cens-diks million
 Pronoun ceo this, that
-Noun çaka every
+Adjective çaka every, all
 Adjective çarmanta beautiful
 Pronoun ço it
 Noun çokolo chocolate
