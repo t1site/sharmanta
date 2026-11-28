@@ -81,6 +81,7 @@ Conjunction ous or
 Noun padero father
 Noun pajo country
 Noun pano bread
+Verb pense think
 Verb perdone forgive
 Noun persono person, human
 Noun personois-povioes human rights
@@ -129,4 +130,3 @@ Interrogative want how many
 Interrogative wem what
 Interrogative win who
 Numeral zers zero
-Verb pense think

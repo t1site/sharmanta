@@ -416,6 +416,11 @@
   },
   {
     "partOfSpeech": "Verb",
+    "word": "pense",
+    "translation": "think"
+  },
+  {
+    "partOfSpeech": "Verb",
     "word": "perdone",
     "translation": "forgive"
   },
