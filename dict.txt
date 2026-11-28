@@ -91,6 +91,7 @@ Noun piwo power(mathematics)
 Noun planeto planet
 Noun Planeto-terra Earth
 Noun pluvo rain
+Preposition porçeos so
 Preposition pors for
 Adverb porsempru forever
 Interrogative porswem why
@@ -130,4 +131,3 @@ Interrogative want how many
 Interrogative wem what
 Interrogative win who
 Numeral zers zero
-Preposition porçeos so
