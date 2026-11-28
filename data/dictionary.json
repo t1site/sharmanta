@@ -10,6 +10,11 @@
     "translation": "good"
   },
   {
+    "partOfSpeech": "Prefix",
+    "word": "cef-",
+    "translation": "Main; leading; foremost; supreme"
+  },
+  {
     "partOfSpeech": "Adjective",
     "word": "çarmanta",
     "translation": "beautiful"
@@ -43,6 +48,11 @@
     "partOfSpeech": "Noun",
     "word": "ekspräsidenso",
     "translation": "previous-president"
+  },
+  {
+    "partOfSpeech": "Prefix",
+    "word": "eks-",
+    "translation": "Previous; former"
   },
   {
     "partOfSpeech": "Pronoun",
@@ -115,6 +125,11 @@
     "translation": "bad"
   },
   {
+    "partOfSpeech": "Prefix",
+    "word": "mal-",
+    "translation": "To make the opposite; opposite-making"
+  },
+  {
     "partOfSpeech": "Verb",
     "word": "mange",
     "translation": "eat"
@@ -123,6 +138,11 @@
     "partOfSpeech": "Conjunction",
     "word": "mes",
     "translation": "but"
+  },
+  {
+    "partOfSpeech": "Prefix",
+    "word": "mis-",
+    "translation": "Wrong; incorrect"
   },
   {
     "partOfSpeech": "Conjunction",
@@ -158,6 +178,11 @@
     "partOfSpeech": "Noun",
     "word": "präsidenso",
     "translation": "president"
+  },
+  {
+    "partOfSpeech": "Prefix",
+    "word": "re-",
+    "translation": "Again; back to the original state"
   },
   {
     "partOfSpeech": "Noun",

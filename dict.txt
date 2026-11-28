@@ -1,5 +1,6 @@
 Preposition as to
 Adjective bona good
+Prefix cef- Main; leading; foremost; supreme
 Adjective çarmanta beautiful
 Pronoun ço it
 Interrogative çom how
@@ -7,6 +8,7 @@ Preposition dedis from
 Preposition dis of
 Interrogative dov where
 Noun ekspräsidenso previous-president
+Prefix eks- Previous; former
 Pronoun elo he, she
 Preposition entres between
 Conjunction es and
@@ -21,8 +23,10 @@ Preposition kons with
 Preposition kontres against
 Noun linguo language
 Adjective malbona bad
+Prefix mal- To make the opposite; opposite-making
 Verb mange eat
 Conjunction mes but
+Prefix mis- Wrong; incorrect
 Conjunction ous or
 Noun persono person, human
 Preposition pirs by
@@ -30,6 +34,7 @@ Noun pluvo rain
 Preposition pors for
 Interrogative porswem why
 Noun präsidenso president
+Prefix re- Again; back to the original state
 Noun sabpräsidenso vice-president
 Preposition sans without
 Adjective sapienta wise
@@ -44,8 +49,3 @@ Interrogative wand when
 Interrogative want how many
 Interrogative wem what
 Interrogative win who
-Prefix mal- To make the opposite; opposite-making
-Prefix eks- Previous; former
-Prefix re- Again; back to the original state
-Prefix mis- Wrong; incorrect
-Prefix cef- Main; leading; foremost; supreme
