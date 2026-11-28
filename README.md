@@ -9,4 +9,4 @@ Linguo çarmanta estae linguo internaçia.
 
 [Reglo lingua](https://t1site.github.io/sharmanta/)
 
-[Frazoes Egzempla](https://github.com/t1site/sharmanta/tree/main/example)
+[Frazoes Egzampla](https://github.com/t1site/sharmanta/tree/main/example)
