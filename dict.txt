@@ -127,3 +127,4 @@ Interrogative want how many
 Interrogative wem what
 Interrogative win who
 Numeral zers zero
+Adjective egala equal
