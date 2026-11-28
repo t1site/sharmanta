@@ -568,5 +568,10 @@
     "partOfSpeech": "Interrogative",
     "word": "win",
     "translation": "who"
+  },
+  {
+    "partOfSpeech": "Numeral",
+    "word": "zers",
+    "translation": "zero"
   }
 ]
