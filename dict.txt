@@ -36,3 +36,8 @@ Interrogative wand when
 Interrogative want how many
 Interrogative wem what
 Interrogative win who
+Adjective bona good
+Adjective malbona bad
+Noun präsidenso president
+Noun sabpräsidenso vice-president
+Noun ekspräsidenso previous-president
