@@ -10,18 +10,23 @@ Preposition entres between
 Conjunction es and
 Verb estae be
 Preposition finos until
+Noun homo man
 Preposition ins in
 Pronoun jo I
 Conjunction kit than
 Preposition kons with
 Preposition kontres against
 Noun linguo language
+Verb mange eat
 Conjunction mes but
 Conjunction ous or
+Noun persono person, human
 Preposition pirs by
+Noun pluvo rain
 Preposition pors for
 Interrogative porswem why
 Preposition sans without
+Adjective sapienta wise
 Conjunction sit if
 Preposition sos under
 Preposition surs on
@@ -31,8 +36,3 @@ Interrogative wand when
 Interrogative want how many
 Interrogative wem what
 Interrogative win who
-Verb mange eat
-Noun homo man
-Adjective sapienta wise
-Noun persono person, human
-Noun pluvo rain

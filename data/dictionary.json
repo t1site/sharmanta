@@ -60,6 +60,11 @@
     "translation": "until"
   },
   {
+    "partOfSpeech": "Noun",
+    "word": "homo",
+    "translation": "man"
+  },
+  {
     "partOfSpeech": "Preposition",
     "word": "ins",
     "translation": "in"
@@ -90,6 +95,11 @@
     "translation": "language"
   },
   {
+    "partOfSpeech": "Verb",
+    "word": "mange",
+    "translation": "eat"
+  },
+  {
     "partOfSpeech": "Conjunction",
     "word": "mes",
     "translation": "but"
@@ -100,9 +110,19 @@
     "translation": "or"
   },
   {
+    "partOfSpeech": "Noun",
+    "word": "persono",
+    "translation": "person, human"
+  },
+  {
     "partOfSpeech": "Preposition",
     "word": "pirs",
     "translation": "by"
+  },
+  {
+    "partOfSpeech": "Noun",
+    "word": "pluvo",
+    "translation": "rain"
   },
   {
     "partOfSpeech": "Preposition",
@@ -118,6 +138,11 @@
     "partOfSpeech": "Preposition",
     "word": "sans",
     "translation": "without"
+  },
+  {
+    "partOfSpeech": "Adjective",
+    "word": "sapienta",
+    "translation": "wise"
   },
   {
     "partOfSpeech": "Conjunction",
