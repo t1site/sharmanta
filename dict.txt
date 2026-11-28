@@ -25,6 +25,7 @@ Verb estae be
 Verb fare do, make
 Preposition finos until
 Noun fono sound
+Noun gloro glory
 Verb guide guide, lead
 Noun homo man
 Preposition ins in
@@ -62,7 +63,10 @@ Noun planeto planet
 Noun Planeto-terra Earth
 Noun pluvo rain
 Preposition pors for
+Adverb porsempru forever
 Interrogative porswem why
+Verb pove can do
+Noun povo power
 Noun präsidenso president
 Prefix re- Again; back to the original state
 Noun sabpräsidenso vice-president
@@ -87,7 +91,3 @@ Interrogative wand when
 Interrogative want how many
 Interrogative wem what
 Interrogative win who
-Verb pove can do
-Noun povo power
-Noun gloro glory
-Adverb porsempru forever

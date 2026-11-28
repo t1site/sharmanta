@@ -135,6 +135,11 @@
     "translation": "sound"
   },
   {
+    "partOfSpeech": "Noun",
+    "word": "gloro",
+    "translation": "glory"
+  },
+  {
     "partOfSpeech": "Verb",
     "word": "guide",
     "translation": "guide, lead"
@@ -320,9 +325,24 @@
     "translation": "for"
   },
   {
+    "partOfSpeech": "Adverb",
+    "word": "porsempru",
+    "translation": "forever"
+  },
+  {
     "partOfSpeech": "Interrogative",
     "word": "porswem",
     "translation": "why"
+  },
+  {
+    "partOfSpeech": "Verb",
+    "word": "pove",
+    "translation": "can do"
+  },
+  {
+    "partOfSpeech": "Noun",
+    "word": "povo",
+    "translation": "power"
   },
   {
     "partOfSpeech": "Noun",
