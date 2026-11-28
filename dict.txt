@@ -63,3 +63,5 @@ Interrogative wand when
 Interrogative want how many
 Interrogative wem what
 Interrogative win who
+Verb vene come
+Verb espêre hope
