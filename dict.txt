@@ -1,5 +1,6 @@
 Noun akûo water
 Preposition as to
+Interjection âmen amen
 Adjective bona good
 Prefix cef- Main; leading; foremost; supreme
 Noun celo sky, heaven
@@ -68,4 +69,3 @@ Interrogative wand when
 Interrogative want how many
 Interrogative wem what
 Interrogative win who
-Interjection âmen amen
