@@ -1,5 +1,10 @@
 [
   {
+    "partOfSpeech": "Preposition",
+    "word": "as",
+    "translation": "to"
+  },
+  {
     "partOfSpeech": "Adjective",
     "word": "çarmanta",
     "translation": "beautiful"
@@ -10,14 +15,54 @@
     "translation": "it"
   },
   {
+    "partOfSpeech": "Interrogative",
+    "word": "çom",
+    "translation": "how"
+  },
+  {
+    "partOfSpeech": "Preposition",
+    "word": "dedis",
+    "translation": "from"
+  },
+  {
+    "partOfSpeech": "Preposition",
+    "word": "dis",
+    "translation": "of"
+  },
+  {
+    "partOfSpeech": "Interrogative",
+    "word": "dov",
+    "translation": "where"
+  },
+  {
     "partOfSpeech": "Pronoun",
     "word": "elo",
     "translation": "he, she"
   },
   {
+    "partOfSpeech": "Preposition",
+    "word": "entres",
+    "translation": "between"
+  },
+  {
+    "partOfSpeech": "Conjunction",
+    "word": "es",
+    "translation": "and"
+  },
+  {
     "partOfSpeech": "Verb",
     "word": "estae",
     "translation": "be"
+  },
+  {
+    "partOfSpeech": "Preposition",
+    "word": "finos",
+    "translation": "until"
+  },
+  {
+    "partOfSpeech": "Preposition",
+    "word": "ins",
+    "translation": "in"
   },
   {
     "partOfSpeech": "Pronoun",
@@ -30,9 +75,59 @@
     "translation": "than"
   },
   {
+    "partOfSpeech": "Preposition",
+    "word": "kons",
+    "translation": "with"
+  },
+  {
+    "partOfSpeech": "Preposition",
+    "word": "kontres",
+    "translation": "againist"
+  },
+  {
     "partOfSpeech": "Noun",
     "word": "linguo",
     "translation": "language"
+  },
+  {
+    "partOfSpeech": "Conjunction",
+    "word": "mes",
+    "translation": "or"
+  },
+  {
+    "partOfSpeech": "Preposition",
+    "word": "pirs",
+    "translation": "by"
+  },
+  {
+    "partOfSpeech": "Preposition",
+    "word": "pors",
+    "translation": "for"
+  },
+  {
+    "partOfSpeech": "Interrogative",
+    "word": "porswem",
+    "translation": "why"
+  },
+  {
+    "partOfSpeech": "Preposition",
+    "word": "sans",
+    "translation": "without"
+  },
+  {
+    "partOfSpeech": "Conjunction",
+    "word": "sit",
+    "translation": "if"
+  },
+  {
+    "partOfSpeech": "Preposition",
+    "word": "sos",
+    "translation": "under"
+  },
+  {
+    "partOfSpeech": "Preposition",
+    "word": "surs",
+    "translation": "on"
   },
   {
     "partOfSpeech": "Pronoun",
@@ -43,5 +138,25 @@
     "partOfSpeech": "Verb",
     "word": "vere",
     "translation": "see, look, watch, view"
+  },
+  {
+    "partOfSpeech": "Interrogative",
+    "word": "wand",
+    "translation": "when"
+  },
+  {
+    "partOfSpeech": "Interrogative",
+    "word": "want",
+    "translation": "how many"
+  },
+  {
+    "partOfSpeech": "Interrogative",
+    "word": "wem",
+    "translation": "what"
+  },
+  {
+    "partOfSpeech": "Interrogative",
+    "word": "win",
+    "translation": "who"
   }
 ]
