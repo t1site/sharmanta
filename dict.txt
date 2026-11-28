@@ -14,7 +14,7 @@ Verb dare give
 Preposition dedis from
 Preposition dis of
 Interrogative dov where
-Conjunction ekit as(comparison of equality)
+Conjunction ekis as(comparison of equality)
 Noun ekspräsidenso previous-president
 Prefix eks- Previous; former
 Pronoun elo he, she
@@ -36,7 +36,7 @@ Noun jouro day
 Interjection jourobona hello
 Noun jouroceo today
 Adverb jouroceu today
-Conjunction kit than
+Conjunction kis than
 Preposition kons with
 Preposition kontres against
 Noun kuôre heart
@@ -77,7 +77,7 @@ Adjective sapienta wise
 Verb sauve save
 Noun seinjo lord
 Noun sino sin, crime
-Conjunction sit if
+Conjunction sis if
 Preposition sos under
 Noun statuo state
 Preposition surs on
