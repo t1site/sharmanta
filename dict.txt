@@ -93,3 +93,22 @@ Interrogative wand when
 Interrogative want how many
 Interrogative wem what
 Interrogative win who
+Numeral unos one
+Numeral duos two
+Numeral tres three
+Numeral kuas four
+Numeral kuis five
+Numeral siks six
+Numeral seps seven
+Numeral otos eight
+Numeral nous nine
+Numeral deks ten
+Numeral cens hundred
+Numeral mils thousand
+Numeral diks ten thousand
+Numeral deks-diks hundred thousand
+Numeral cens-diks million
+Numeral mils-diks ten million
+Numeral diks-pis-ço hundred million
+Conjunction pis ~ to the power of -
+Noun piwo power(mathematics)
